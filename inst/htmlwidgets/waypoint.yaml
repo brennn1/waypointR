@@ -1,0 +1,5 @@
+dependencies:
+- name: waypoints
+  version: 4.0.0
+  src: htmlwidgets/lib/waypoints
+  script: noframework.waypoints.min.js
